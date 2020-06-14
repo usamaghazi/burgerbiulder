@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "Burger-App",
+    "staging": "react-my-burger-2f446"
+  }
+}
